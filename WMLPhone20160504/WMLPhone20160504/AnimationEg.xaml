@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="WMLPhone20160504.AnimationEg"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WMLPhone20160504"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition FromHorizontalOffset="480" />
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <TextBlock Style="{StaticResource SubheaderTextBlockStyle}" Text="Transitioned."/>
+    </Grid>
+
+</Page>

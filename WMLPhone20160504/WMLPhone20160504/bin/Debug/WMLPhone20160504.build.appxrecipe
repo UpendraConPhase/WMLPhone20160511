@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-SUGUMD0</Machine>
+    <WindowsUser>Con_phase</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>68875d29-9224-4298-b359-4cf3f0bdc519</PackageIdentityName>
+    <IntermediateOutputPath>D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\WMLPhone20160504.exe">
+      <PackagePath>WMLPhone20160504.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\BackgroundMusic\BackgroundMusic\bin\Debug\BackgroundMusic.winmd">
+      <PackagePath>BackgroundMusic.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\JSScrits\mapsjs-core.js">
+      <PackagePath>Assets\JSScrits\mapsjs-core.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\JSScrits\mapsjs-mapevents.js">
+      <PackagePath>Assets\JSScrits\mapsjs-mapevents.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\JSScrits\mapsjs-service.js">
+      <PackagePath>Assets\JSScrits\mapsjs-service.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\JSScrits\mapsjs-ui.js">
+      <PackagePath>Assets\JSScrits\mapsjs-ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\JSScrits\mapsjs-ui.css">
+      <PackagePath>Assets\JSScrits\mapsjs-ui.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\Icons\btn_start.png">
+      <PackagePath>Assets\Icons\btn_start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\Icons\splash.png">
+      <PackagePath>Assets\Icons\splash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\WMLImages\1map1.png">
+      <PackagePath>Assets\WMLImages\1map1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\HTMLPages\eg1.html">
+      <PackagePath>HTMLPages\eg1.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\HTMLPages\RouteMapLocalScript - Copy.html">
+      <PackagePath>HTMLPages\RouteMapLocalScript - Copy.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\HTMLPages\RouteMapLocalScript.html">
+      <PackagePath>HTMLPages\RouteMapLocalScript.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\HTMLPages\RouteMap.html">
+      <PackagePath>HTMLPages\RouteMap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\MAP.html">
+      <PackagePath>MAP.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\HTMLPages\MapView.html">
+      <PackagePath>HTMLPages\MapView.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\lamborghini_start.mp3">
+      <PackagePath>Assets\lamborghini_start.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\Assets\WMLImages\splash.jpg">
+      <PackagePath>Assets\WMLImages\splash.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\WMLPhone20160504.xr.xml">
+      <PackagePath>WMLPhone20160504.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\AnimationEg.xbf">
+      <PackagePath>AnimationEg.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\MapScreenMain.xbf">
+      <PackagePath>MapScreenMain.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\SplashScreen.xbf">
+      <PackagePath>SplashScreen.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ConnectionPhase\WML\SourceCode\WMLPhone20160504\WMLPhone20160504\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
